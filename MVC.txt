@@ -1,0 +1,3 @@
+VIEW - Interface com a qual o usuário interage
+CONTROLLER - Define as regras de negócio
+MODEL - Manipula os dados (Banco de Dados)
